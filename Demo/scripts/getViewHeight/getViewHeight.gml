@@ -1,0 +1,1 @@
+return camera_get_view_height(camera_get_active());
